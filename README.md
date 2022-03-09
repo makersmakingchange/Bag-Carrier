@@ -10,7 +10,7 @@ This handle is used to assist in carrying plastic or reusable bags by offering a
 
 # Build Instructions 
 
-All documentation, design files, and photos can be found on the GitHub page that is linked at the top of this project page. The Maker Checklist document will aid you in following the correct steps to build and work with the requester.
+All documentation, design files, and photos can be found on the GitHub page that is linked at the top of this project page. The Maker Checklist found in Documents will aid you in following the correct steps to build and work with the requester.
 
 # SKILLS REQUIRED 
 3D Printing
@@ -25,7 +25,7 @@ The design prints in PLA with no supports. 3D print STL's and instructions can b
 
 # Sizing
 
-There are small, medium, and large handles available for different sized hands. A downloadable sizing guide can be found in the User Guide located at the top of the project page.
+There are small, medium, and large handles available for different sized hands. A downloadable sizing guide can be found in the User Guide located at the top of this page in Documents.
 
 # Attribution
 
