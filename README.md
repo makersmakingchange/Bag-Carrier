@@ -15,7 +15,7 @@ All documentation, design files, and photos can be found on the GitHub page that
 # SKILLS REQUIRED 
 3D Printing
 
-TOOLS 
+# TOOLS 
 
 3D Printer
 
