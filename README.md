@@ -1,37 +1,44 @@
 # Bag Carrier
-## Device Details
-## Overview 
+
+## Overview
 
 The bag carrier is a low-cost, 3D-printed handheld tool that distributes the weight of bags carried. This 3D Printed Assistive Device can assist people with arthritis or other disabilities to carry plastic bags and reusable bags. The bag handles can easily loop around the two curved hooks. The handle is rounded to allows users to comfortably grip the carrier.
 
 [Makers Making Change Assistive Device Library Listing](https://www.makersmakingchange.com/s/product/bag-carrier/01tJR00000068yzYAA)
 
-## Usage 
+Last Updated: 2023-Mar-27
 
-This handle is used to assist in carrying plastic or reusable bags by offering a wider grip. This handle can either be carried in hand or can attach onto the side of a wheelchair.
+<img src="Photos/Bag_Carrier.jpg" width="500" alt="Picture of person using a red 3d printed Bag Carrier to lift some black reusable grocery bags.">
 
-## Build Instructions 
+## Usage
 
-All documentation, design files, and photos are contained within this repository. The Maker Checklist found in Documents will aid you in following the correct steps to build and work with the requester.
+This handle is used to assist in carrying plastic or reusable bags by offering a wider grip and more distributed loading. This handle can either be carried in hand or can be attached onto the side of a wheelchair. See the [User Guide](/Documentation/Bag_Carrier_User_Guide.pdf) for additional information.
 
-### SKILLS REQUIRED 
+## Build Instructions
+
+All documentation, design files, and photos are contained within this repository. The [Maker Checklist]([/Documentation/Bag_Carrier_Maker_Checklist.pdf)) found in Documents will aid you in following the correct steps to build it yourself or work with a requester. 
+
+### SKILLS REQUIRED
 3D Printing
 
-### TOOLS 
+### TOOLS
 
 3D Printer
 
-### 3D PRINTING 
+### 3D PRINTING
 
-The design prints in PLA with no supports. 3D print STL's and instructions can be found on the GitHub page linked at the top of this project page.
+The design is intended to print in PLA with no supports. 3D print STL's and instructions can be found on the GitHub page linked at the top of this project page.
 
 ## Sizing
 
-There are small, medium, and large handles available for different sized hands. A downloadable sizing guide can be found in the User Guide located at the top of this page in Documents.
+There are small, medium, and large handles available for different sized hands. A printable [sizing guide](/Documentation/Bag_Carrier_Sizing_Guide.pdf) can be used to find the correct sizing for a user.
 
 ## Attribution
+An original Bag Carrier was designed by Neil Squire Society / Makers Making Change. This is an updated, redsigned version of the original design.
 
-Kerilyn Kennedy - Neil Squire Society / Makers Making Change
+### Contributors
+ - Kerilyn Kennedy - Neil Squire Society / Makers Making Change
+ - Jake McIvor - Neil Squire Society / Makers Making Change
 
 ---
 
